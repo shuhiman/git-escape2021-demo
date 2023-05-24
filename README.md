@@ -1,5 +1,5 @@
 # Escape 2021 followed by me.
-this is a demo repo for my experimenting with git 
+this is a demo repo for my experimention with git 
 
 Usage:
 '''python
